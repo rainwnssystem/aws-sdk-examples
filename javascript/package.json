@@ -1,0 +1,16 @@
+{
+  "name": "aws-sdk-js-examples",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1038.0",
+    "uuid": "^14.0.0"
+  }
+}
